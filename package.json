@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "firebase": "^7.14.4",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "vue": "^2.5.11",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
